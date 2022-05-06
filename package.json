@@ -1,0 +1,12 @@
+{
+  "name": "sin_wave",
+  "version": "1.0.0",
+  "description": "An animated sinusoidal wave",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ozora",
+  "license": "ISC"
+}
